@@ -1,11 +1,3 @@
----
-name: Pull request template
-about: If you're contributing to this repo, do make an issue and then make a PR
-title: "[PR]"
-labels: 'Status: :vertical_traffic_light: Awaiting'
-assignees: alphaX86
-
----
 If you're opening a pull request for this repo, then do answer a few questions below!
 
 Does your PR solve any of the issues mentioned or raised in this repo?
